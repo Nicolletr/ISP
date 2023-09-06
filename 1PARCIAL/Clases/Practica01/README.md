@@ -28,3 +28,8 @@
 
 * ![image](https://github.com/NahomiMachuca/ISP/assets/89893604/ec9403be-1e53-4249-bcb1-3662aa670b13)
 
+* Presentación de resutados 
+![Imagen de WhatsApp 2023-09-10 a las 17 35 54](https://github.com/Majo-SM/NOVENO_A/assets/79738467/f42c8c56-5b3f-48ab-94ce-13fc3d93960a)
+
+![Imagen de WhatsApp 2023-09-10 a las 17 36 26](https://github.com/Majo-SM/NOVENO_A/assets/79738467/35780083-b9d1-42a4-bf10-d7e8c6637b3d)
+
