@@ -1,0 +1,36 @@
+# ------------------------------------------------------
+# THIS FILE WAS AUTOMATICALLY GENERATED (DO NOT MODIFY)
+# ------------------------------------------------------
+
+type Vacuna {
+  id_mascota: String!
+  id_veterinario: String!
+  id_producto: String!
+  fecha_aplicacion: String!
+  dosis: String!
+  active: Boolean!
+}
+
+type Query {
+  vacunas: [Vacuna!]!
+  vacuna(id: ID!): Vacuna!
+}
+
+type Mutation {
+  createVacunaa(createVacunaDto: CreateVacunaDto!): Vacuna!
+  updateVacuna(id: ID!, updateVacunaDto: UpdateVacunaDto!): Vacuna!
+  removeVacuna(id: ID!): Vacuna!
+  updateAllActiveVacuna: Vacuna!
+}
+
+input CreateVacunaDto {
+  id_mascota: String!
+  id_veterinario: String!
+  id_producto: String!
+  fecha_aplicacion: String!
+  dosis: String!
+}
+
+input UpdateVacunaDto {
+  fecha_aplicacion: String!
+}
